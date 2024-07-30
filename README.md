@@ -1,15 +1,15 @@
 ### About me :
 <img align="right" alt="Coding" width="400" src="URL_OF_YOUR_GIF">
-I am Hind Alzzindani 
+📚  I am Hind Alzzindani ✨👋
 using Dart language with the wonderful framework Flutter to make mobile applications.  
 I use JavaScript language with the wonderful framework React to make web applications and I like to create codes.  
 I always look for everything that is new in the world of technology.  
-I like to be the best always. ❤️
+I like to be the best always. 🎲,🎯🧑‍💻
 
-### Languages and Tools:
 <p align="left"> 
-    <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-    <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+ <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+ <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+
     <!-- Add more icons as needed -->
 </p>
 ## Bio
