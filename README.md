@@ -15,6 +15,24 @@ I like to be the best always. ❤️
 ## Bio
 Flutter Developer | Mobile App Designer | Tech Enthusiast
 
+- **Current Position**: Mobile Developer as [Freelancer]
+- **Skills**: Flutter, Dart, JavaScript, Htlml, Figma
+- **Projects**: 
+  - [Quran Reading App](link_)
+  - [Agricultural Records Management App](link)
+- **Interests**: 
+  - Mobile and web app development
+  - UI/UX design
+  - Learning new technologies
+- **Location**: [Yemen, Sana'a]
+
+### Connect with me:
+- [LinkedIn](## Bio
+
+### هند الزنداني
+
+Flutter Developer | Mobile App Designer | Tech Enthusiast
+
 - **Current Position**: Mobile Developer at [Your Company]
 - **Skills**: Flutter, Dart, JavaScript, React, Figma
 - **Projects**: 
@@ -27,8 +45,11 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 - **Location**: [Your City, Country]
 
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+- [LinkedIn](https://www.linkedin.com/in/hind-alzzindani/)
 - [Twitter](https://twitter.com/YOUR_TWITTER_USERNAME/)
+- [Instagram](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/)
+)
+  
 - [Instagram](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/)
 
 
