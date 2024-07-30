@@ -20,3 +20,12 @@ I like to be the best always. ❤️
 ### Social Media:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/)
+
+
+### About me :
+<img align="right" alt="Coding" width="400" src="URL_OF_YOUR_GIF">
+I am [Your Name]  
+using Dart language with the wonderful framework Flutter to make mobile applications.  
+I use JavaScript language with the wonderful framework React to make web applications and I like to create codes.  
+I always look for everything that is new in the world of technology.  
+I like to be the best always. ❤️
