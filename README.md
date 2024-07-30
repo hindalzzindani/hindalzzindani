@@ -12,6 +12,24 @@ I like to be the best always. ❤️
     <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
     <!-- Add more icons as needed -->
 </p>
+## Bio
+Flutter Developer | Mobile App Designer | Tech Enthusiast
+
+- **Current Position**: Mobile Developer at [Your Company]
+- **Skills**: Flutter, Dart, JavaScript, React, Figma
+- **Projects**: 
+  - [Quran Reading App](link_to_project)
+  - [Agricultural Records Management App](link_to_project)
+- **Interests**: 
+  - Mobile and web app development
+  - UI/UX design
+  - Learning new technologies
+- **Location**: [Your City, Country]
+
+### Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+- [Twitter](https://twitter.com/YOUR_TWITTER_USERNAME/)
+- [Instagram](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/)
 
 
 ### My Stats:
