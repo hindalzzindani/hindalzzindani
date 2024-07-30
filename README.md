@@ -27,9 +27,9 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 - **Location**: [Yemen, Sana'a]
 
 ### Connect with me:
-- [LinkedIn](## Bio
 
-### هند الزنداني
+
+
 
 Flutter Developer | Mobile App Designer | Tech Enthusiast
 
