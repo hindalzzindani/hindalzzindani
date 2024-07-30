@@ -1,6 +1,6 @@
 ### About me :
 <img align="right" alt="Coding" width="400" src="URL_OF_YOUR_GIF">
-I am هند الزنداني  
+I am Hind Alzzindani 
 using Dart language with the wonderful framework Flutter to make mobile applications.  
 I use JavaScript language with the wonderful framework React to make web applications and I like to create codes.  
 I always look for everything that is new in the world of technology.  
