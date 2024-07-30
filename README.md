@@ -46,8 +46,7 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/hind-alzzindani/)
-- [Twitter](https://twitter.com/YOUR_TWITTER_USERNAME/)
-- [Instagram](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/)
+
 )
   
 - [Instagram](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/)
