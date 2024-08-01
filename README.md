@@ -42,26 +42,20 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 
 ### Languages and Tools:
-<p align="left"> 
- <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
- <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" alt="flutter" width="40" height="40"/> </a> 
- 
-
-    <!-- Add more icons as needed -->
+<p align="left">
+  <a href="https://flutter.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://www.linkedin.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ### Social Media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
