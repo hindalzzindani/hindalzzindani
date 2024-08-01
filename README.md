@@ -6,13 +6,9 @@ I use JavaScript language with the wonderful framework Bootstrap to make web app
 I always look for everything that is new in the world of technology.<br><br>  
 I like to be the best always. 🎲,🎯🧑‍💻
 
-<p align="left"> 
- <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
- <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
 
-    <!-- Add more icons as needed -->
-</p>
 ## Bio
+
 Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 - **Current Position**: Mobile Developer as [Freelancer]
@@ -46,11 +42,17 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 
 ### Languages and Tools:
+<p align="left"> 
+ <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+ <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" alt="flutter" width="40" height="40"/> </a> 
+ 
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+    <!-- Add more icons as needed -->
+</p>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
