@@ -34,7 +34,7 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 - **Current Position**: Mobile Developer as [Freelncer]
-- **Skills**: Flutter, Dart, JavaScript, React, Figma
+- **Skills**: Flutter, Dart, Figma
 - **Projects**: 
   - [Quran Reading App](link_to_project)
   - [Agricultural Records Management App](link_to_project)
@@ -42,7 +42,7 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
   - Mobile and web app development
   - UI/UX design
   - Learning new technologies
-- **Location**: [Your City, Country]
+- **Location**: [Yemen, Sana'a]
 
 ### Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/hind-alzzindani/)
