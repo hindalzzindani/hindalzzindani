@@ -1,5 +1,5 @@
 ### About me :
-<img align="right" alt="Coding" width="400"  src="dev.gif">
+<img align="right" alt="Coding" width="400"  src="dev.gif"><br><br>
 📚  I am Hind Alzzindani ✨👋
 using Dart language with the wonderful framework Flutter to make mobile applications.  
 I use JavaScript language with the wonderful framework React to make web applications and I like to create codes.  
