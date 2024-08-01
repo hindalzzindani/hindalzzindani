@@ -56,17 +56,16 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
   <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://www.linkedin.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
-### Social Media:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_FACEBOOK_USERNAME/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_WHATSAPP_NUMBER)
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/> </a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="facebook" width="40" height="40"/> </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/> </a>
+  <a href="https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank"> <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="40" height="40"/> </a>
+</p>
 
 ### My Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
