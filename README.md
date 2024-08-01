@@ -56,6 +56,10 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
   <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
   <a href="https://www.linkedin.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
+
+
+### Social Media:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/> </a>
@@ -67,5 +71,5 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 ### My Stats:
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hindalzzindani&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
