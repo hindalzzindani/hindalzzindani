@@ -33,7 +33,7 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 Flutter Developer | Mobile App Designer | Tech Enthusiast
 
-- **Current Position**: Mobile Developer at [Your Company]
+- **Current Position**: Mobile Developer as [Freelncer]
 - **Skills**: Flutter, Dart, JavaScript, React, Figma
 - **Projects**: 
   - [Quran Reading App](link_to_project)
