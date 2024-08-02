@@ -25,6 +25,7 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 ### Connect with me:
   <a href="https://wa.me/775464411" target="_blank"> <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="40" height="40"/> </a>
 ### Languages and Tools:
+### Languages and Tools:
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 10px;"/>
@@ -35,8 +36,8 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="margin: 10px;"/>
   </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40" style="margin: 10px;"/>
+  <a href="https://www.android.com/studio" target="_blank">
+    <img src="https://camo.githubusercontent.com/e87a0bbc2ea533869deabc5775446f8a634e13dc84511323038eab5203ff40e5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f696473747564696f2f616e64726f696473747564696f2d6f726967696e616c2e737667" alt="android" width="40" height="40" style="margin: 10px;"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="margin: 10px;"/>
@@ -75,8 +76,6 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
-
-
 
 
 ### Social Media:
