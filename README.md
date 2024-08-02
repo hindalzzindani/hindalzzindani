@@ -91,3 +91,13 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views"/>
 </p>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=hindalzzindani"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'hindalzzindani');
+</script>
+
