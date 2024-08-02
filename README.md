@@ -27,21 +27,26 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 ### Languages and Tools:
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 50px;"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 10px;"/>
   </a>
   <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin: 50px;"/>
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin: 10px;"/>
   </a>
   <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="margin: 50px;"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="margin: 10px;"/>
   </a>
-  <a href="https://www.android.com/html/" target="_blank">
+  <a href="https://www.android.com/studio" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="margin: 10px;"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="css3" width="40" height="40" style="margin: 10px;"/>
   </a>
-
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" style="margin: 10px;"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" style="margin: 10px;"/>
   </a>
@@ -57,7 +62,20 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40" style="margin: 10px;"/>
   </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="asp.net core" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 10px;"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40" style="margin: 10px;"/>
+  </a>
 </p>
+
 
 
 
