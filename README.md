@@ -1,10 +1,11 @@
 ### About me :
 <img align="right" alt="Coding" width="400"  src="dev.gif"><br><br>
-📚  I am Hind Alzzindani ✨👋<br><br>
+
+📚 I am Hind Alzzindani ✨👋<br><br>
 using Dart language with the wonderful framework Flutter to make mobile applications.<br>
 I use JavaScript language with the wonderful framework Bootstrap to make web applications and I like to create codes.  
 I always look for everything that is new in the world of technology.  
-I like to be the best always. 🎲,🎯🧑‍💻
+I like to be the best always. 🎲🎯🧑‍💻
 
 
 ## Bio
@@ -86,4 +87,7 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hindalzzindani&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views"/>
 </p>
