@@ -63,9 +63,7 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
   <a href="https://github.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" style="margin: 10px;"/>
   </a><br><br>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40" style="margin: 10px;"/>
-  </a>
+  
   <a href="https://www.php.net/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" style="margin: 10px;"/>
   </a>
@@ -89,7 +87,7 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 ### Popular Repositories:
 
 <p align="left">
-  <a href="https://github.com/hindalzzindani/flutter_hjozatApp">
+  <a href="https://github.com/hindalzzindani/flutter_hjozatApp.git">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hindalzzindani&repo=REPO_1&theme=radical" />
   </a>
   <a href="https://github.com/agriy_yeapp3clicks">
