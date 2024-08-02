@@ -35,7 +35,7 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="margin: 10px;"/>
   </a>
-  <a href="https://www.bing.com/search?q=android+studio" target="_blank">
+  <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40" style="margin: 10px;"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank">
