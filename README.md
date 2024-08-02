@@ -28,8 +28,9 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 ### Languages and Tools:
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 100px;"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 90%;"/>
+  </a><br>
+  ,لاقق
   <a href="https://dart.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin: 10px;"/>
   </a>
