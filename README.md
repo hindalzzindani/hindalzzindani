@@ -52,10 +52,6 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 10px;"/>
   </a>
 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="css3" width="40" height="40" style="margin: 10px;"/>
-  </a>
- 
  
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 10px;"/>
