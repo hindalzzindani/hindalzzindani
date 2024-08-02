@@ -24,11 +24,11 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 ### Connect with me:
   <a href="https://wa.me/775464411" target="_blank"> <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="40" height="40"/> </a>
-### Languages and Tools:
+
 ### Languages and Tools:
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 10px;"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 100px;"/>
   </a>
   <a href="https://dart.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin: 10px;"/>
