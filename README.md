@@ -4,9 +4,9 @@
 📚 I am Hind Alzzindani ✨👋<br><br>
 using Dart language with the wonderful framework Flutter to make mobile applications.<br>
 I use JavaScript language with the wonderful framework Bootstrap to make web applications ,
-I like to create codes.  
+
 I always look for everything that is new in the world of technology.  
-I like to be the best always. 🎲🎯🧑‍💻
+I like to be the best always. 🎲🎯  
 
 
 ## Bio
