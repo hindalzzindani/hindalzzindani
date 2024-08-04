@@ -3,7 +3,8 @@
 
 📚 I am Hind Alzzindani ✨👋<br><br>
 using Dart language with the wonderful framework Flutter to make mobile applications.<br>
-I use JavaScript language with the wonderful framework Bootstrap to make web applications and I like to create codes.  
+I use JavaScript language with the wonderful framework Bootstrap to make web applications ,
+I like to create codes.  
 I always look for everything that is new in the world of technology.  
 I like to be the best always. 🎲🎯🧑‍💻
 
@@ -13,7 +14,8 @@ I like to be the best always. 🎲🎯🧑‍💻
 Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 - **Current Position**: Mobile Developer as [Freelancer]
-- **Skills**: Flutter, Dart, JavaScript, Htlml, Figma
+- **Skills**: Flutter, Dart, JavaScript, Htlml,php,
+- Figma
 - **Projects**: 
   - [Quran Reading App](link_)
   - [Agricultural Records Management App](link)
@@ -28,7 +30,7 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 ### Languages and Tools:
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 90%;"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 190%;"/>
   </a>
 
   <a href="https://dart.dev" target="_blank">
