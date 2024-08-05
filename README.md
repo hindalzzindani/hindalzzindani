@@ -77,6 +77,15 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
   </a>
 </p>
 
+
+### Courses:
+🎯 Flutter - Animations from Zero to Hero
+
+link https://www.udemy.com/certificate/UC-82b63551-3818-47b7-b1c2-5676f45cfb31/
+
+
+🎯 Flutter Advanced Course Bloc and MVVM Pattern [Arabic][2023]
+https://www.udemy.com/certificate/UC-dcea4f17-2e77-4978-afce-5fd95370bd29/
 ### My Stats:
 
 <p align="left">
