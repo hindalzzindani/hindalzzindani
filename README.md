@@ -8,7 +8,9 @@ I use JavaScript language with the wonderful framework Bootstrap to make web app
 I always look for everything that is new in the world of technology.  
 I like to be the best always. 🎲🎯  
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views"/>
+</p>
 ## Bio
 
 Flutter Developer | Mobile App Designer | Tech Enthusiast
@@ -84,7 +86,5 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hindalzzindani&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views"/>
-</p>
+
 
