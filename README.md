@@ -75,20 +75,6 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
   </a>
 </p>
 
-
-
-
-### Popular Repositories:
-
-<p align="left">
-  <a href="https://github.com/hindalzzindani/flutter_hjozatApp.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hindalzzindani&repo=REPO_1&theme=radical" />
-  </a>
-  <a href="https://github.com/agriy_yeapp3clicks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hindalzzindani&repo=REPO_2&theme=radical" />
-  </a>
-</p>
-
 ### My Stats:
 
 <p align="left">
