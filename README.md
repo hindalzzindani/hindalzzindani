@@ -26,7 +26,6 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 ### Connect with me:
   <a href="https://wa.me/775464411" target="_blank"> <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="40" height="40"/> </a>
-<br>
 
   <a href="https://www.linkedin.com/in/hind-alzzindani/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 ### Languages and Tools:
