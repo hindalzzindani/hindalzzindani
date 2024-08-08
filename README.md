@@ -19,8 +19,7 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 - **Skills**: Flutter, Dart, JavaScript, Htlml,php,
 - Figma
 - **Projects**: 
-  - [appshammkh]([https://play.google.com/store/apps/details?id=com.awalnet.flutter_shammakh_ecom_])
-  - [Agricultural Records Management App](https://play.google.com/store/apps/details?id=com.awalnet.flutter_shammakh_ecom)
+  - [appshammkh](https://play.google.com/store/apps/details?id=com.awalnet.flutter_shammakh_ecom)
 - **Interests**: 
   - Mobile and web app development
   - UI/UX design
