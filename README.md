@@ -1,7 +1,7 @@
-### About me :
+
 <img align="right" alt="Coding" width="400"  src="dev.gif"><br><br>
 
-📚 I am Hind Alzzindani ✨👋<br><br>
+📚<h1> I am Hind Alzzindani ✨👋 </h1><br><br>
 using Dart language with the wonderful framework Flutter to make mobile applications.<br>
 I use JavaScript language with the wonderful framework Bootstrap to make web applications ,
 
