@@ -7,7 +7,7 @@ I use JavaScript language with the wonderful framework Bootstrap to make web app
 
 I always look for everything that is new in the world of technology.  
 I like to be the best always. 🎲🎯  
-
+<br><br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views"/>
 </p>
