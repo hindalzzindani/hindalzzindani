@@ -28,10 +28,14 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
   - Learning new technologies
 
 ### Connect with me:
+
   <a href="https://wa.me/775464411" target="_blank"> <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="40" height="40"/> </a>
 
   <a href="https://www.linkedin.com/in/hind-alzzindani/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
+  
 ### Languages and Tools:
+
+
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 190%;"/>
@@ -80,6 +84,8 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 
 ### Courses:
+
+
 🎯 Flutter - Animations from Zero to Hero
 
 link https://www.udemy.com/certificate/UC-82b63551-3818-47b7-b1c2-5676f45cfb31/
@@ -87,6 +93,8 @@ link https://www.udemy.com/certificate/UC-82b63551-3818-47b7-b1c2-5676f45cfb31/
 
 🎯 Flutter Advanced Course Bloc and MVVM Pattern [Arabic][2023]
 https://www.udemy.com/certificate/UC-dcea4f17-2e77-4978-afce-5fd95370bd29/
+
+
 ### My Stats:
 
 <p align="left">
