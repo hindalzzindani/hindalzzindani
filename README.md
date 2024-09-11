@@ -35,7 +35,6 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
   
 ### Languages and Tools:
 
-
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 190%;"/>
@@ -84,7 +83,6 @@ Flutter Developer | Mobile App Designer | Tech Enthusiast
 
 
 ### Courses:
-
 
 🎯 Flutter - Animations from Zero to Hero
 
