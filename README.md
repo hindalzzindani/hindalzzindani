@@ -2,14 +2,19 @@
 <img align="right" alt="Coding" width="400"  src="dev.gif"><br><br>
 
 <h1>📚 I am Hind Alzzindani ✨👋 </h1><br><br>
-Senior Developer | Specialized Mobile application| UI UX 
+Application Programmer and Designer,
 <br><br>
-I have extensive experience in app development<br><br>
-using Flutter and UI/UX design with tools like Adobe XD and Figma.
-I possess strong technical skills in ASP.NET MVC Core, <br><br>
-Bootstrap, Flutter, Dart, PHP, HTML/CSS, JavaScript, and responsive design.
+focused on creating intuitive and efficient application interfaces. 
 <br><br>
-I am always looking to evolve and learn new technologies.. 🎲🎯  
+I have extensive experience in app development
+<br><br>
+Using Flutter and UI/UX design with tools like Adobe XD and Figma.
+<br><br>
+I possess strong technical skills in ASP.NET MVC Core, Bootstrap,
+<br><br>
+Flutter, Dart, PHP, HTML/CSS, JavaScript, and responsive design. 
+<br><br>
+I am always looking to evolve and learn new technologies... 🎲🎯  
 
 <br><br>
 <p align="left">
