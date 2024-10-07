@@ -102,6 +102,9 @@ link https://www.udemy.com/certificate/UC-82b63551-3818-47b7-b1c2-5676f45cfb31/
 https://www.udemy.com/certificate/UC-dcea4f17-2e77-4978-afce-5fd95370bd29/
 
 
+🎯 Deep Dive into Clean Architecture in Flutter[Arabic]
+ https://www.udemy.com/certificate/UC-e3ffa369-c4fb-4dee-a295-b8692da00f85/
+
 ### My Stats:
 
 <p align="left">
