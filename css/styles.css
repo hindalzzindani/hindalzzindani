@@ -210,7 +210,7 @@ a
 }
 
 .nav_list:after {
-  content: 'hindalzzindani@gmail.com';
+  content: '';
   position: absolute;
   width: 1px;
   margin: 0px;
