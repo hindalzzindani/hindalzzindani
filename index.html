@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+ <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="js/scripts.js">
+    <title>Portfolio Website</title>
+</head>
+
+<body class="protfolio ">
+    <div class="toggle_icon" id='menu'>
+        <p> <span> Menu</span></p>
+    </div>
+   
+    <div class="aside-social">
+        <ul>
+           
+                      
+                        
+        </ul>
+    </div>
+    <!-- devided the page into tow section -->
+    <div class="protfolio_warpper">
+        <!-- nav in the left of the page should take 3/12 -->
+        <nav class="nav" id='nav'>
+            <a href="#" class="nav_logo">
+                <img src="img/logo.png" alt='logo' />
+            </a>
+            <ul class="nav_list">
+                <li><a class="active" href="#home">About</a></li>
+                <li><a href="#about">Experience</a></li>
+                <!-- <li><a href="#work">Works</a></li>
+                <li><a href="#contanct">Contact</a></li> -->
+            </ul>
+            <div class='toggle-switch'>
+                <label class="toggle-lable">
+                    <input class='toggle-checkout' id='toggle-checkout' type='checkbox'>
+                    <span class='slider'></span>
+                </label>
+              
+            </div>
+        </nav>
+        <!-- the main right section  -->
+        <main data-scroll-container>
+            <!-- breif of me  -->
+            <header id='home' class="section" onmousemove="comet()">
+                <div id="container-comet"></div>
+                <div class="section_numberic__upper">One</div>
+                <section class="home">
+                    <div class="home-img">
+                        <img src="img/2.jpg" alt="">
+                    </div>
+                    <div class="home-content">
+                        <h1>Hi, It's <span>Hind </span></h1>
+                        <h3 class="typing-text">I'm a <span></span></h3>
+                        <p>  Hi , My name is Hind  ,Softwer developer , Flutter passionate ,I started get
+                            interesting in the mobile development since .
+                            I got into Information Technology
+                            I got my first  job in the Kafahaa company I started in the beginning of 2020 . I am also
+                            doing some freelance projects .
+                          
+                            Love learning design. I am interested in Figma and do some skishing in my free time . building
+                            clear and cool apps is my hobby . I am learning new Technology to boost my projects ..</p>
+                            <div class="social-icons">
+                                <a href="https://github.com/hindalzzindani"  target="_blank"><i class="fa-brands fa-github"></i></a>
+                                <a href="https://www.linkedin.com/in/hindalzzindani" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+                                <a href="https://mostaql.com/u/hindalzzindani" target="_blank">
+                                    <img src="img/mostaql-logo-white.svg" alt="Freelance Icon" style="width: 19px; height: 19px;">
+                                </a>
+                                <a href="https://www.behance.net/hindalzzindani" target="_blank"><i class="fa-brands fa-behance"></i></a>
+                            </div>
+                            
+                            
+                        <a href="img/Hind-Alzzindani-Flutte.pdf" class="btn" download> download my cv </a>
+            
+                    </div>
+                </section>
+                
+                <div class="section_numberic__lower">O.1</div>
+            </header>
+          
+            <section id="about" class="section mx">
+                <div class="section_numberic__upper">Tow</div>
+                <!-- flex columns -->
+                <h2 class="peimary-text"><span class="color-red">A</span>bout me.</h2>
+                <div class="section_about">
+                    <div class="section_about_text">
+                        <p class="section_about_paragraph third-text">
+                            I am a passionate mobile app developer with a focus on Flutter, and I have a strong background in design using Figma.
+                             My journey began at Ol Net, where I worked on app development and gained valuable experience in creating user-friendly applications. Now, as a freelancer,
+                              I continue to develop innovative and efficient apps, while also designing sleek, intuitive interfaces. 
+                            I am always eager to learn new technologies and improve my skills to deliver top-quality projects.
+                        </p>
+                    </div>
+                    <div class="section_about_skills">
+                        <div class="skill progress-red">
+                            <div class="skill_title">Flutter & Dart</div>
+                        </div>
+                        <div class="skill progress-blue">
+                            <div class="skill_title">Backend</div>
+                        </div>
+                        <div class="skill progress-yellow">
+                            <div class="skill_title">web Design</div>
+                        </div>
+                        <div class="skill progress-pink">
+                            <div class="skill_title">UI / UX Design</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="section_lang">
+                    <div class="section_lang_warpper" data-scroll="" data-scroll-speed="-4" data-scroll-target="#about" data-scroll-direction="horizontal">
+                        <div class="lang-items">
+                            <span class="stock-red">Flutter</span>
+                        </div>
+                        <div class="lang-items">
+                            <span class="stock-blue">JavaScript</span>
+                        </div>
+                        <div class="lang-items">
+                            <span class="stock-yellow">Css</span>
+                        </div>
+                        <div class="lang-items">
+                            <span class="stock-blue">PHP</span>
+                        </div>
+                        <div class="lang-items">
+                            <span class="stock-pink">ASp.net</span>
+                        </div>
+                        <div class="lang-items">
+                            <span class="stock-red">Css</span>
+                        </div>
+                        <div class="lang-items">
+                            <span class="stock-blue">html</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="section_numberic__lower">O.2</div>
+            </section>
+        
+        </main>
+    </div>
+   
+    <script src="js/scripts.js"></script>
+
+</body>
+
+
+</html>
