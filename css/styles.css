@@ -219,7 +219,7 @@ a
   opacity: 0.9;
   font-size: 12px;
   -webkit-transform: rotate(-90deg);
-          transform: rotate(-90deg);
+  transform: rotate(-90deg);
 }
 .nav_list li {
   line-height: 45px;
