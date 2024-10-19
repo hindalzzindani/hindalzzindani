@@ -2,27 +2,17 @@ const toggleBtn = document.getElementById('menu');
 const nav = document.getElementById('nav');
 const navList = document.querySelectorAll('.nav_list > li > a');
 
-console.log('list is ', navList);
+// التحكم في الفئة active على الروابط عند النقر
 navList.forEach(element => {
     element.addEventListener('click', (e) => {
-        console.log('clicked', e.target);
-        const current = document.querySelector('.active')
-        console.log('current', current);
-        current.classList.remove('active')
-        e.target.classList.add("active")
-        // e.target.classList.remove('active')
-    })
+        e.preventDefault(); // منع أي سلوك افتراضي إذا كنت تريد فقط التحكم في الإنتقال بسلاسة
+        const targetId = e.target.getAttribute('href'); // الحصول على العنصر الهدف من href
+        document.querySelector(targetId).scrollIntoView({ behavior: 'smooth' }); // الانتقال السلس
+        nav.classList.remove('active'); // إغلاق القائمة بعد الضغط على الرابط
+    });
 });
 
-
-let toggle = true;
+// التبديل بين إظهار وإخفاء القائمة عند النقر على أيقونة البرجر
 toggleBtn.addEventListener('click', () => {
-    if (toggle) {
-        nav.style.width = '180px';
-        toggle = false;
-    }
-    else {
-        nav.style.width = '0%';
-        toggle = true;
-    }
-})
+    nav.classList.toggle('active');
+});
