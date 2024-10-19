@@ -175,6 +175,50 @@ ul {
   z-index: inherit;
   width: 180px;
 }
+/* الوضع الافتراضي للشاشات الكبيرة (الكمبيوتر) */
+.nav {
+  width: 180px;
+  transform: translateX(0);
+  transition: transform 0.3s ease;
+}
+
+/* إخفاء القائمة الجانبية في الشاشات الصغيرة (الهاتف/التابلت) */
+@media (max-width: 768px) {
+  .nav {
+    transform: translateX(-100%);
+    
+  }
+
+  /* عند النقر على أيقونة البرجر تظهر القائمة الجانبية */
+  .nav.active {
+    transform: translateX(0);
+  }
+
+  /* إظهار أيقونة البرجر فقط في الشاشات الصغيرة */
+  .toggle_icon {
+    display: flex;
+  }
+}
+.menu-circle {
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  background-color: #04213f1e;
+  color: #fff;
+  border-radius: 50%;
+  transition: background-color 0.3s ease;
+}
+
+.menu-circle i {
+  font-size: 24px;
+}
+
+.menu-circle:hover {
+  background-color: #02030c;
+}
 
 .nav_logo {
   --logo_height:61px ;
@@ -208,9 +252,9 @@ a
   top: calc(var(--nav-padding) - 5px);
   opacity: 0.6;
 }
-
+/* 
 .nav_list:after {
-  content: 'hindalzzindani@gmail.com';
+  content: '';
   position: absolute;
   width: 1px;
   margin: 0px;
@@ -220,7 +264,7 @@ a
   font-size: 12px;
   -webkit-transform: rotate(-90deg);
           transform: rotate(-90deg);
-}
+} */
 .nav_list li {
   line-height: 45px;
   position: relative;
@@ -268,7 +312,7 @@ a
 }
 
 @media screen and (max-width: 1022px) {
-  .nav {
+  /* .nav {
     position: fixed;
     z-index: 99999;
     width: 0px;
@@ -282,7 +326,7 @@ a
   .nav_list {
     margin-top: 20px;
     margin-left: 10px;
-  }
+  } */
 }
 
 
@@ -413,9 +457,10 @@ footer.dark {
 }
 
 .protfolio .toggle_icon {
-  position: fixed;
+  position: sticky;
   right: 0px;
   top: 15px;
+  display: none;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -433,7 +478,7 @@ footer.dark {
 
 .protfolio .toggle_icon p {
   cursor: pointer;
-  background-color: #FF6464;
+  background-color: #11001b;
   width: auto;
   padding: 10px;
 }
@@ -503,6 +548,48 @@ footer.dark {
   opacity: 0.5;
 }
 
+/* إظهار القائمة الجانبية افتراضياً في الشاشات الكبيرة (الكمبيوتر) */
+.nav {
+  width: 180px;
+  transform: translateX(0);
+  transition: transform 0.3s ease;
+}
+
+/* إخفاء أيقونة البرجر في الشاشات الكبيرة */
+.toggle_icon {
+  display: none;
+}
+
+/* التحكم في الأيقونة والقائمة في الشاشات الصغيرة (الهاتف والتابلت) */
+@media (max-width: 768px) {
+  /* إخفاء القائمة الجانبية في الشاشات الصغيرة */
+  .nav {
+    transform: translateX(-100%);
+  }
+
+  /* إظهار أيقونة البرجر */
+  .toggle_icon {
+    display: flex;
+  }
+
+  /* عند تفعيل القائمة الجانبية (عند النقر على الأيقونة) */
+  .nav.active {
+    transform: translateX(0);
+  }
+}
+
+/* تصميم أيقونة البرجر */
+.burger-icon {
+  cursor: pointer;
+}
+
+.burger-icon span {
+  display: block;
+  width: 30px;
+  height: 3px;
+  background-color: white;
+  margin: 6px 0;
+}
 
 .protfolio_warpper {
   display: -webkit-box;
@@ -1320,3 +1407,58 @@ section {
         opacity: 0;
     }
 }
+
+/* General Styles */
+body.protfolio {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Toggle Icon for Mobile View */
+.toggle_icon {
+  display: none;
+  position: relative;
+  cursor: pointer;
+}
+
+.burger-icon span {
+  display: block;
+  width: 30px;
+  height: 3px;
+  background-color: white;
+  margin: 6px 0;
+}
+
+/* Show Toggle Icon in Mobile View */
+@media (max-width: 768px) {
+  .toggle_icon {
+      display: block;
+  }
+
+  /* .aside-social,
+  /* .nav {
+      display: none;
+  } */
+} */
+
+/* Navigation Menu */
+.nav_list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.nav_list li {
+  margin: 10px 0;
+}
+
+.nav_list a {
+  text-decoration: none;
+  color: #333;
+}
+
+.nav_list a.active {
+  font-weight: bold;
+}
+
+
