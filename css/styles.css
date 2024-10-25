@@ -45,8 +45,10 @@ body {
 }
 
 body, html {
+  /* overflow-x: hidden; */
   scroll-behavior: smooth;
   font-family: "Open Sans",sans-serif;
+ 
 }
 
 a {
@@ -60,13 +62,6 @@ ul {
   padding: 0px;
 }
 
-.color-red {
-  color: #ee9402;
-}
-
-.color-blue {
-  color: #5CDCF8;
-}
 
 .flex-col {
   display: -webkit-box;
@@ -169,24 +164,42 @@ ul {
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  --nav-padding:9px ;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  --nav-padding:9px;
   z-index: inherit;
   width: 180px;
-}
-/* الوضع الافتراضي للشاشات الكبيرة (الكمبيوتر) */
-.nav {
   width: 180px;
   transform: translateX(0);
   transition: transform 0.3s ease;
+  background-color: #161616;
 }
+
+/* Navigation Menu */
+.nav_list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.nav_list li {
+  margin: 10px 0;
+}
+
+.nav_list a {
+  text-decoration: none;
+  color: #333;
+}
+
+.nav_list a.active {
+  font-weight: bold;
+}
+
+/* الوضع الافتراضي للشاشات الكبيرة (الكمبيوتر) */
 
 /* إخفاء القائمة الجانبية في الشاشات الصغيرة (الهاتف/التابلت) */
 @media (max-width: 768px) {
   .nav {
     transform: translateX(-100%);
-    
   }
 
   /* عند النقر على أيقونة البرجر تظهر القائمة الجانبية */
@@ -195,29 +208,7 @@ ul {
   }
 
   /* إظهار أيقونة البرجر فقط في الشاشات الصغيرة */
-  .toggle_icon {
-    display: flex;
-  }
-}
-.menu-circle {
-  cursor: pointer;
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-  width: 50px;
-  height: 50px;
-  background-color: #04213f1e;
-  color: #fff;
-  border-radius: 50%;
-  transition: background-color 0.3s ease;
-}
-
-.menu-circle i {
-  font-size: 24px;
-}
-
-.menu-circle:hover {
-  background-color: #02030c;
+  
 }
 
 .nav_logo {
@@ -252,7 +243,7 @@ a
   top: calc(var(--nav-padding) - 5px);
   opacity: 0.6;
 }
-/* 
+
 .nav_list:after {
   content: '';
   position: absolute;
@@ -263,13 +254,9 @@ a
   opacity: 0.9;
   font-size: 12px;
   -webkit-transform: rotate(-90deg);
-<<<<<<< HEAD
-          transform: rotate(-90deg);
-} */
-=======
-  transform: rotate(-90deg);
+   transform: rotate(-90deg);
 }
->>>>>>> c1bb4bde7c00913b27eef6a5ac5aa403644f3ba6
+
 .nav_list li {
   line-height: 45px;
   position: relative;
@@ -303,7 +290,6 @@ a
   height: inherit;
   background-color: rgba(92, 220, 248, 0.3);
 }
-
 .nav_list .active:before {
   content: '';
   position: absolute;
@@ -317,22 +303,43 @@ a
 }
 
 @media screen and (max-width: 1022px) {
-  /* .nav {
+  .nav {
     position: fixed;
-    z-index: 99999;
+    z-index: 121;
     width: 0px;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
     background: var(--bg-color);
     -ms-flex-item-align: start;
-        align-self: flex-start;
+   align-self: flex-start;
   }
   .nav_list {
     margin-top: 20px;
     margin-left: 10px;
-  } */
+  }
 }
+.menu-circle {
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  background-color: #04213f1e;
+  color: #fff;
+  border-radius: 50%;
+  transition: background-color 0.3s ease;
+}
+
+.menu-circle i {
+  font-size: 24px;
+}
+
+.menu-circle:hover {
+  background-color: #02030c;
+}
+
 
 
 .section_numberic__upper {
@@ -344,15 +351,17 @@ a
   top: 0px;
   left: -20px;
   color: #2d2d33;
-  z-index: -1;
+  z-index: 3;
 }
 
 .section_numberic__lower {
   position: absolute;
   font-size: 48px;
+  z-index: 2;
   right: 20px;
   bottom: 0px;
   color: #0b05699e;
+  z-index: 2;
 }
 
 .section_numberic__lower::before {
@@ -444,14 +453,6 @@ a
     -webkit-transform: rotateY(185deg);
             transform: rotateY(185deg);
   }
-}
-
-footer {
-  width: 100%;
-}
-
-footer.dark {
-  background: black;
 }
 
 .protfolio {
@@ -560,6 +561,16 @@ footer.dark {
   transition: transform 0.3s ease;
 }
 
+nav a {
+  color: white;
+  margin-left: 20px;
+  font-size: 1.8rem;
+}
+
+nav a:hover, nav a.active {
+  color: hsl(30, 100%, 60%);
+  border-bottom: none;
+}
 /* إخفاء أيقونة البرجر في الشاشات الكبيرة */
 .toggle_icon {
   display: none;
@@ -569,7 +580,7 @@ footer.dark {
 @media (max-width: 768px) {
   /* إخفاء القائمة الجانبية في الشاشات الصغيرة */
   .nav {
-    transform: translateX(-100%);
+    transform: translateX(0%);
   }
 
   /* إظهار أيقونة البرجر */
@@ -991,7 +1002,7 @@ html{
 body{
     width: 100%;
     height: 100vh;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     background-color: black;
     color: white;
 }
@@ -1024,7 +1035,7 @@ header{
 }
 .home-img {
   position: relative;
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 .home-img img {
@@ -1044,55 +1055,8 @@ header{
   pointer-events: none; /* لا تتداخل مع النقرات */
 }
 
-nav a{
-    font-size: 1.8rem;
-    color: white;
-    margin-left: 4rem;
-    font-weight: 500;
-    transition: 0.3s ease;
-    border-bottom: 3px solid transparent;
-}
-
-nav a:hover,
-nav a.active{
-    color: #232364;
-    border-bottom: 3px solid #232364;
-}
-
-@media(max-width:995px){
-    nav{
-        position: absolute;
-        display: none;
-        top: 0;
-        right: 0;
-        width: 40%;
-        border-left: 3px solid #232364;
-        border-bottom: 3px solid #232364;
-        border-bottom-left-radius: 2rem;
-        padding: 1rem solid;
-        background-color: #161616;
-        border-top: 0.1rem solid rgba(0,0,0,0.1);
-    }
-
-    nav.active{
-        display: block;
-    }
-
-    nav a{
-        display: block;
-        font-size: 2rem;
-        margin: 3rem 0;
-    }
-
-    nav a:hover,
-    nav a.active{
-        padding: 1rem;
-        border-radius: 0.5rem;
-        border-bottom: 0.5rem solid #232364;
-    }
-}
-
 section{
+  
     min-height: 100vh;
     padding: 5rem 9% 5rem;
 }
@@ -1125,9 +1089,6 @@ span{
     font-size: 1.6rem;
 }
 
-.home-img{
-    border-radius: 50%;
-}
 
 .home-img img{
     position: relative;
@@ -1265,39 +1226,6 @@ span{
 }
 
 
-header {
-    position: fixed;
-    top: 0;
-    margin: auto;
-    left: 0;
-    width: 100%;
-    background-color: #000000;
-    padding: -4rem 5%;
-    z-index: 102;
-    display: flex;
-    justify-content: space-around;
-    /* align-items: center; */
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: stretch;
-}
-
-header a.logo {
-    font-size: 2.5rem;
-    color: #232364;
-    font-weight: bold;
-}
-
-nav a {
-    color: white;
-    margin-left: 20px;
-    font-size: 1.8rem;
-}
-
-nav a:hover, nav a.active {
-    color: hsl(30, 100%, 60%);
-    border-bottom: none;
-}
 
 section {
     padding: 100px 5%;
@@ -1311,10 +1239,7 @@ section {
     justify-content: center;
     align-items: center;
 }
-.home-img {
-  position: relative;
-  display: inline-block;
-}
+
 
 .home-img img {
   width: 100%;
@@ -1323,8 +1248,8 @@ section {
 }
 .home-img img{
   position: relative;
-  width: 21vw;
-  height: 25vw;
+  width: 27vw;
+  height: 36vw;
   border-radius: 50% !important;
   box-shadow: 0 0 25px solid #232364;
   cursor: pointer;
@@ -1404,6 +1329,7 @@ section {
     }
   }
 
+
  
 
 @keyframes float {
@@ -1412,61 +1338,4 @@ section {
         opacity: 0;
     }
 }
-<<<<<<< HEAD
 
-/* General Styles */
-body.protfolio {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
-
-/* Toggle Icon for Mobile View */
-.toggle_icon {
-  display: none;
-  position: relative;
-  cursor: pointer;
-}
-
-.burger-icon span {
-  display: block;
-  width: 30px;
-  height: 3px;
-  background-color: white;
-  margin: 6px 0;
-}
-
-/* Show Toggle Icon in Mobile View */
-@media (max-width: 768px) {
-  .toggle_icon {
-      display: block;
-  }
-
-  /* .aside-social,
-  /* .nav {
-      display: none;
-  } */
-} */
-
-/* Navigation Menu */
-.nav_list {
-  list-style-type: none;
-  padding: 0;
-}
-
-.nav_list li {
-  margin: 10px 0;
-}
-
-.nav_list a {
-  text-decoration: none;
-  color: #333;
-}
-
-.nav_list a.active {
-  font-weight: bold;
-}
-
-
-=======
->>>>>>> c1bb4bde7c00913b27eef6a5ac5aa403644f3ba6
