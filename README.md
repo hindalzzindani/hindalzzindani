@@ -18,9 +18,10 @@
   </div>
 
   <!-- الصورة --><div align="right">
-  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
+
 </div>
-  <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 50px; text-align:right;">
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
 </div>
 
 <br>
