@@ -17,7 +17,7 @@
   </div>
 
   <!-- الصورة على اليمين -->
-  <img alt="Coding" width="300" src="dev.gif" style="border-radius: 10px;">
+  <img alt="Coding" width="20" src="dev.gif" style="border-radius: 10px;">
 </div>
 
 <br>
