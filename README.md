@@ -8,11 +8,7 @@
   <div style="flex: 1; max-width: 300px; text-align: left; margin-right: 20px;">
     <p>
       Focused on creating intuitive application interfaces. <br><br>
-      Experience in app development using Flutter<br><br> 
-      and UI/UX design with Adobe XD and Figma. <br><br>
-      Strong skills in ASP.NET MVC Core, Bootstrap, 
-      <br><br> Flutter, Dart, and responsive design. <br><br>
-      Always evolving and learning new technologies... 🎲🎯  
+    
     </p>
   </div>
   
