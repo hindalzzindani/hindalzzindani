@@ -13,7 +13,7 @@
       Strong technical skills in ASP.NET MVC Core, Bootstrap, Flutter, Dart, PHP, HTML/CSS, JavaScript, and responsive design. <br><br>
       Always evolving and learning new technologies... 🎲🎯  
     </p>
-  </div>
+  
 
 <div align="right">
  <img alt="Coding" width="250" src="dev.gif" style="border-radius: 10px; margin-right: 20px;">
@@ -36,10 +36,6 @@
 
 <br>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
-</div>
-<br>
 
 ## Bio
 
