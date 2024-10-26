@@ -7,7 +7,7 @@
   <!-- النص -->
   <div style="max-width:500px; text-align: left;">
   
-    <p>
+    <p align="left">
       Focused on creating intuitive and efficient application interfaces.<br><br>
       Extensive experience in app development using Flutter<br><br>
       and UI/UX design with tools like Adobe XD and Figma.<br><br>
@@ -15,14 +15,14 @@
       Flutter, Dart, PHP, HTML/CSS, JavaScript, and responsive design.<br><br>
       Always evolving and learning new technologies... 🎲🎯  
     </p>
-    <div align="right">
+</div>
+<div align="right">
  <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 50px; text-align: right;">
 </div>
 
   </div>
 
 
-</div>
 
 
 <br>
