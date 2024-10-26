@@ -5,7 +5,7 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <!-- النص -->
-  <div style="max-width: 400px; text-align: left;">
+  <div style="max-width:500px; text-align: left;">
   
     <p>
       Focused on creating intuitive and efficient application interfaces.<br><br>
