@@ -15,18 +15,12 @@
   </div>
 
   <!-- الصورة على اليمين -->
-  <div style="flex-shrink: 0;">
-    <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 10px; margin-left: 20px;">
+  <div align="right" style="flex-shrink: 0;">
+    <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 10px; margin-right: 20px;">
   </div>
 </div>
 
 <br>
-
-<br>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
-</div>
 
 <br>
 
