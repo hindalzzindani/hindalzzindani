@@ -3,7 +3,7 @@
 <h3 align="center">Application Programmer and Designer</h3>
 
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 10px;">
   <!-- النص -->
   <div style="max-width:500px; text-align: left;">
   
