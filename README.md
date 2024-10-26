@@ -19,7 +19,7 @@
   </div>
 
   <!-- الصورة على اليمين -->
-  <img alt="Coding" width="250" src="dev.gif" style="border-radius: 10px; margin-left: 20px;">
+  <img alt="Coding" width="250" src="dev.gif" style="border-radius: 10px; margin-left: 220px;">
 </div>
 
 <br>
