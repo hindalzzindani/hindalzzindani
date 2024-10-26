@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400"  src="dev.gif"><br><br>
 
-<p style="margin-top: 20px;">
+<p margin-top: -23px !important;">
       Focused on creating intuitive and efficient application interfaces. <br><br>
       Extensive experience in app development using Flutter <br><br>
   and UI/UX design with tools like Adobe XD and Figma. <br><br>
