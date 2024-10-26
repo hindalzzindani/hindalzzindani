@@ -17,15 +17,13 @@
     </p>
   </div>
 
-  <!-- الصورة -->
-  <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 10px;">
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
+</div>
+
 </div>
 
 <br>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
-</div>
 
 ## Bio
 
