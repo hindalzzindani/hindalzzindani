@@ -1,24 +1,14 @@
 
 <h1 align="center">📚 I am Hind Alzzindani ✨👋</h1>
 <h3 align="center">Application Programmer and Designer</h3>
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: flex-start; margin-top: -20px;">
-  <!-- النص على اليسار -->
-  <div style="max-width: 300px; text-align: left;">
-    
-  <div  align="right"  style="flex-shrink: 0; text-align: right;">
-    <img alt="Coding" width="200" src="./dev.gif" style="border-radius: 60px; margin-top: -20;">
-  </div>
-    <p>
-      Focused on creating intuitive application interfaces. <br><br>
-      Experience in app development using Flutter<br><br> 
-      and UI/UX design with Adobe XD and Figma. <br><br>
-      Strong skills in ASP.NET MVC Core, Bootstrap, 
-      <br><br> Flutter, Dart, and responsive design. <br><br>
-      Always evolving and learning new technologies... 🎲🎯  
-    </p>
-  </div>
-  
-</div>
+![Coding](./dev.gif)
+
+Focused on creating intuitive application interfaces.  
+Experience in app development using Flutter  
+and UI/UX design with Adobe XD and Figma.  
+Strong skills in ASP.NET MVC Core, Bootstrap,  
+Flutter, Dart, and responsive design.  
+Always evolving and learning new technologies... 🎲🎯
 
 
 <br>
