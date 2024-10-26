@@ -6,7 +6,7 @@
   <div style="max-width: 300px; text-align: left;">
     
   <div  align="right"  style="flex-shrink: 0; text-align: right;">
-    <img alt="Coding" width="200" src="./dev.gif" style="border-radius: 60px; margin-top: 0;">
+    <img alt="Coding" width="200" src="./dev.gif" style="border-radius: 60px; margin-top: -20;">
   </div>
     <p>
       Focused on creating intuitive application interfaces. <br><br>
