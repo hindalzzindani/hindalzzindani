@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px; flex-wrap: nowrap;">
   <!-- النص على اليسار -->
-  <div style="flex: 1; max-width: 400px; text-align: left;">
+  <div style="flex: 2; max-width: 400px; text-align: left;">
     <h2>Application Programmer and Designer</h2>
     <p>
       Focused on creating intuitive and efficient application interfaces. <br><br>
