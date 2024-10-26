@@ -1,11 +1,16 @@
 <div align="center">
   <h1>📚 I am Hind Alzzindani ✨👋 </h1>
+  
+</div>
+
+<div align="center">
+  <h1>📚 I am Hind Alzzindani ✨👋</h1>
   <hr style="width: 200px; border: 1px solid #ccc;">
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img align="left" alt="Coding" width="300" src="dev.gif" style="margin-right: 20px;">
-  <div align="left">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <!-- النص على اليسار -->
+  <div style="max-width: 500px; text-align: left;">
     <h2>Application Programmer and Designer</h2>
     <p>
       Focused on creating intuitive and efficient application interfaces. <br><br>
@@ -14,6 +19,9 @@
       Always evolving and learning new technologies... 🎲🎯  
     </p>
   </div>
+
+  <!-- الصورة على اليمين -->
+  <img alt="Coding" width="300" src="dev.gif" style="border-radius: 10px;">
 </div>
 
 <br>
