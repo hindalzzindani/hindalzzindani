@@ -2,10 +2,6 @@
 <h1 align="center">📚 I am Hind Alzzindani ✨👋</h1>
 <h3 align="center">Application Programmer and Designer</h3>
 
-<div align="center">
-  <h1>📚 I am Hind Alzzindani ✨👋</h1>
-  <hr style="width: 200px; border: 1px solid #ccc;">
-</div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px; flex-wrap: nowrap;">
   <!-- النص على اليسار -->
