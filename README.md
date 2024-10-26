@@ -1,6 +1,19 @@
 
 <h1 align="center">📚 I am Hind Alzzindani ✨👋</h1>
+
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+      
 <h3 align="center">Application Programmer and Designer</h3>
+        </p>
+    </div>
+    <div style="flex-shrink: 0;">
+        <img src="./dev.gif" alt="Coding" style="width: 200px; border-radius: 60px; margin-left: 20px;">
+    </div>
+</div>  
+
+
 <img src="./dev.gif" alt="Coding" style="width: 200px; border-radius: 60px;">
 
 Focused on creating intuitive application interfaces.  
