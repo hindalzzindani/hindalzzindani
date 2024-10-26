@@ -16,7 +16,7 @@
       Always evolving and learning new technologies... 🎲🎯  
     </p>
     
-  <div align="right" style="flex-shrink: 0;">
+  <div align="right" style="flex-shrink: 0;top:0%">
     <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 10px; margin-right: 20px;">
   </div>
   </div>
