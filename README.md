@@ -1,6 +1,7 @@
 
 <h1 align="center">📚 I am Hind Alzzindani ✨👋</h1>
 <h3 align="center">Application Programmer and Designer</h3>
+
 ![Coding](./dev.gif)
 
 Focused on creating intuitive application interfaces.  
