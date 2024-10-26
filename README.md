@@ -3,22 +3,22 @@
   <h1>📚 I am Hind Alzzindani ✨👋</h1>
 
 </div>
-<row>
-  
+
+
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <!-- النص على اليسار -->
   <div style="max-width: 400px; text-align: left;">
     <h2>Application Programmer and Designer</h2>
     <p>
       Focused on creating intuitive and efficient application interfaces. <br><br>
-      Extensive experience in app development using Flutter and<br><br> UI/UX design with tools like Adobe XD and Figma. <br><br>
-      Strong technical skills in ASP.NET MVC Core, Bootstrap, Flutter, <br><br>Dart, PHP, HTML/CSS, JavaScript, and responsive design. <br><br>
+      Extensive experience in app development using Flutter and UI/UX design with tools like Adobe XD and Figma. <br><br>
+      Strong technical skills in ASP.NET MVC Core, Bootstrap, Flutter, Dart, PHP, HTML/CSS, JavaScript, and responsive design. <br><br>
       Always evolving and learning new technologies... 🎲🎯  
     </p>
   </div>
 
   <!-- الصورة على اليمين -->
-  <img alt="Coding" width="20" src="dev.gif" style="border-radius: 10px;">
+  <img alt="Coding" width="250" src="dev.gif" style="border-radius: 10px; margin-left: 20px;">
 </div>
 
 <br>
@@ -27,8 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
 </div>
 
-</row>
-,قخ
 ## Bio
 
 **Flutter Developer | Mobile App Designer | Tech Enthusiast**
