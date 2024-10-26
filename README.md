@@ -3,7 +3,8 @@
   <h1>📚 I am Hind Alzzindani ✨👋</h1>
 
 </div>
-
+<row>
+  
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <!-- النص على اليسار -->
   <div style="max-width: 400px; text-align: left;">
@@ -26,6 +27,8 @@
   <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
 </div>
 
+</row>
+,قخ
 ## Bio
 
 **Flutter Developer | Mobile App Designer | Tech Enthusiast**
