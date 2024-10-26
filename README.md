@@ -17,7 +17,7 @@
   </div>
   
   <div align="right" style="flex-shrink: 0;">
-    <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 10px; margin-top: 0;">
+    <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 60px; margin-top: -20;">
   </div>
 </div>
 
