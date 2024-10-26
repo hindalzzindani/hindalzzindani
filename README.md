@@ -1,29 +1,28 @@
 
 <h1 align="center">📚 I am Hind Alzzindani ✨👋</h1>
-
-
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-      
 <h3 align="center">Application Programmer and Designer</h3>
-        </p>
-    </div>
-    <div style="flex-shrink: 0;">
-        <img src="./dev.gif" alt="Coding" style="width: 200px; border-radius: 60px; margin-left: 20px;">
-    </div>
-</div>  
 
+<img align="right" alt="Coding" width="400"  src="dev.gif"><br><br>
 
-<img src="./dev.gif" alt="Coding" style="width: 200px; border-radius: 60px;">
+<h1>📚 I am Hind Alzzindani ✨👋 </h1><br><br>
+Application Programmer and Designer,
+<br><br>
+focused on creating intuitive and efficient application interfaces. 
+<br><br>
+I have extensive experience in app development
+<br><br>
+Using Flutter and UI/UX design with tools like Adobe XD and Figma.
+<br><br>
+I possess strong technical skills in ASP.NET MVC Core, Bootstrap,
+<br><br>
+Flutter, Dart, PHP, HTML/CSS, JavaScript, and responsive design. 
+<br><br>
+I am always looking to evolve and learn new technologies... 🎲🎯  
 
-Focused on creating intuitive application interfaces.  
-Experience in app development using Flutter  
-and UI/UX design with Adobe XD and Figma.  
-Strong skills in ASP.NET MVC Core, Bootstrap,  
-Flutter, Dart, and responsive design.  
-Always evolving and learning new technologies... 🎲🎯
-
-
+<br><br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views"/>
+</p>
 
 <br>
 
