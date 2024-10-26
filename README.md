@@ -4,9 +4,6 @@
 
 <img align="right" alt="Coding" width="400"  src="dev.gif"><br><br>
 
-<h1>📚 I am Hind Alzzindani ✨👋 </h1><br><br>
-Application Programmer and Designer,
-<br><br>
 focused on creating intuitive and efficient application interfaces. 
 <br><br>
 I have extensive experience in app development
