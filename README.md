@@ -6,7 +6,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px; flex-wrap: nowrap;">
   <!-- النص على اليسار -->
   <div style="flex: 1; max-width: 400px; text-align: left;">
-    <h2>Application Programmer and Designer</h2>
+ 
     <p>
       Focused on creating intuitive and efficient application interfaces. <br><br>
       Extensive experience in app development using Flutter and UI/UX design with tools like Adobe XD and Figma. <br><br>
@@ -15,18 +15,18 @@
     </p>
   </div>
 
+<div align="right">
+ <img alt="Coding" width="250" src="dev.gif" style="border-radius: 10px; margin-right: 20px;">
+</div>
+
   <!-- الصورة على اليمين -->
-  <img alt="Coding" width="250" src="dev.gif" style="border-radius: 10px; margin-right: 20px;">
+  
 </div>
 
 <br>
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
-</div>
-
-<div align="right">
- <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 50px; text-align: right;">
 </div>
 
   </div>
