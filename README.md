@@ -18,15 +18,12 @@
     <img alt="Coding" width="200" src="./dev.gif" style="border-radius: 60px; margin-top: 0;">
   </div>
   
-</div>
 
 <br>
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
 </div>
-
-  </div>
 
 
 
