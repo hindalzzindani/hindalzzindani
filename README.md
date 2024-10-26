@@ -3,7 +3,7 @@
 <h3 align="center">Application Programmer and Designer</h3>
 <div style="display: flex; align-items: flex-start; margin-top: -20px;">
   <!-- النص على اليسار -->
-  <div style="flex: 1; text-align: left;">
+  <div style=" text-align: left;">
     <p>
       Focused on creating intuitive and efficient application interfaces. <br><br>
       Extensive experience in app development using Flutter<br><br> 
