@@ -17,11 +17,7 @@ Flutter, Dart, PHP, HTML/CSS, JavaScript, and responsive design.
 I am always looking to evolve and learn new technologies... 🎲🎯  
 
 <br><br>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views"/>
-</p>
 
-<br>
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
