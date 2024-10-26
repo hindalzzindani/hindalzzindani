@@ -1,6 +1,6 @@
 
 <h1 align="center">📚 I am Hind Alzzindani ✨👋</h1>
-<h3 align="center">Application Programmer and Designer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400"  src="dev.gif"><br><br>
 
