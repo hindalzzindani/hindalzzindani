@@ -2,8 +2,7 @@
 <h1 align="center">📚 I am Hind Alzzindani ✨👋</h1>
 <h3 align="center">Application Programmer and Designer</h3>
 
-
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
   <!-- النص على اليسار -->
   <div style="flex: 1; max-width: 400px; text-align: left;">
     <p>
@@ -15,16 +14,13 @@
       and responsive design. <br><br>
       Always evolving and learning new technologies... 🎲🎯  
     </p>
-    
-  <div align="right" style="flex-shrink: 0;top:0%">
-    <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 10px; margin-right: 20px;">
   </div>
+  
+  <div align="right" style="flex-shrink: 0;">
+    <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 10px; margin-top: 0;">
   </div>
-
-
 </div>
 
-<br>
 
 <br>
 
