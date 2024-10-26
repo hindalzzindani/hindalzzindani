@@ -1,12 +1,12 @@
-<div align="center">
-  <h1>📚 I am Hind Alzzindani ✨👋</h1>
 
-</div>
+<h1 align="center">📚 I am Hind Alzzindani ✨👋</h1>
+<h3 align="center">Application Programmer and Designer</h3>
+
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <!-- النص -->
   <div style="max-width: 400px; text-align: left;">
-    <h2>Application Programmer and Designer</h2>
+  
     <p>
       Focused on creating intuitive and efficient application interfaces.<br><br>
       Extensive experience in app development using Flutter<br><br>
