@@ -16,13 +16,13 @@
       Always evolving and learning new technologies... 🎲🎯  
     </p>
   </div>
-
-  <!-- الصورة --><div align="right">
-
-</div>
 <div align="right">
  <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 50px; text-align: right;">
 </div>
+  <!-- الصورة --><div align="right">
+
+</div>
+
 
 <br>
 
