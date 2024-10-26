@@ -1,9 +1,9 @@
 
 <h1 align="center">📚 I am Hind Alzzindani ✨👋</h1>
 <h3 align="center">Application Programmer and Designer</h3>
-<div style="display: flex; align-items: flex-start; margin-top: -20px; flex-wrap: wrap;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: flex-start; margin-top: -20px;">
   <!-- النص على اليسار -->
-  <div style="flex: 1; max-width: 200px; text-align: left; margin-right: 20px;">
+  <div style="max-width: 300px; text-align: left;">
     <p>
       Focused on creating intuitive application interfaces. <br><br>
       Experience in app development using Flutter<br><br> 
@@ -17,7 +17,8 @@
   <div style="flex-shrink: 0;">
     <img alt="Coding" width="200" src="./dev.gif" style="border-radius: 60px; margin-top: 0;">
   </div>
-  
+</div>
+
 
 <br>
 
