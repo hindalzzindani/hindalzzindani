@@ -2,7 +2,7 @@
 <h1 align="center">📚 I am Hind Alzzindani ✨👋</h1>
 <h3 align="center">Application Programmer and Designer</h3>
 
-<img align="right" alt="Coding" width="400"  src="dev.gif"><br><br>
+<img align="right" alt="Coding" width="400" style="margin-top: 20px;" src="dev.gif"><br><br>
 
 focused on creating intuitive and efficient application interfaces. 
 <br><br>
