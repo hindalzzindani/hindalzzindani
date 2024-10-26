@@ -15,11 +15,12 @@
       Flutter, Dart, PHP, HTML/CSS, JavaScript, and responsive design.<br><br>
       Always evolving and learning new technologies... 🎲🎯  
     </p>
-  </div>
-<div align="right">
+    <div align="right">
  <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 50px; text-align: right;">
 </div>
-  <!-- الصورة --><div align="right">
+
+  </div>
+
 
 </div>
 
