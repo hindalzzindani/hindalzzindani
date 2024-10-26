@@ -14,7 +14,7 @@
     </p>
   </div>
   
-  <div style="flex-shrink: 0; text-align: right;">
+  <div  align="right"  style="flex-shrink: 0; text-align: right;">
     <img alt="Coding" width="200" src="./dev.gif" style="border-radius: 60px; margin-top: 0;">
   </div>
 </div>
