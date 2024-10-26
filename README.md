@@ -9,14 +9,16 @@
     <h2>Application Programmer and Designer</h2>
     <p>
       Focused on creating intuitive and efficient application interfaces.<br><br>
-      Extensive experience in app development using Flutter and UI/UX design with tools like Adobe XD and Figma.<br><br>
-      Strong technical skills in ASP.NET MVC Core, Bootstrap, Flutter, Dart, PHP, HTML/CSS, JavaScript, and responsive design.<br><br>
+      Extensive experience in app development using Flutter<br><br>
+      and UI/UX design with tools like Adobe XD and Figma.<br><br>
+      Strong technical skills in ASP.NET MVC Core, Bootstrap,<br><br>
+      Flutter, Dart, PHP, HTML/CSS, JavaScript, and responsive design.<br><br>
       Always evolving and learning new technologies... 🎲🎯  
     </p>
   </div>
 
   <!-- الصورة -->
-  <img alt="Coding" width="250" src="./Cover.png" style="border-radius: 10px;">
+  <img alt="Coding" width="250" src="./dev.gif" style="border-radius: 10px;">
 </div>
 
 <br>
