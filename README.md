@@ -12,6 +12,22 @@ Flutter, Dart, and responsive design.
 Always evolving and learning new technologies... 🎲🎯
 
 
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <p>
+            Focused on creating intuitive application interfaces.<br>
+            Experience in app development using Flutter<br>
+            and UI/UX design with Adobe XD and Figma.<br>
+            Strong skills in ASP.NET MVC Core, Bootstrap,<br>
+            Flutter, Dart, and responsive design.<br>
+            Always evolving and learning new technologies... 🎲🎯
+        </p>
+    </div>
+    <div style="flex-shrink: 0;">
+        <img alt="Coding" src="./dev.gif" style="width: 200px; border-radius: 60px; margin-left: 20px;">
+    </div>
+</div>
+
 <br>
 
 <div align="left">
