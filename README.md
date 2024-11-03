@@ -1,118 +1,64 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<img align="right" alt="Coding" width="400"  src="dev.gif"><br><br>
-
-<h1>📚 I am Hind Alzzindani ✨👋 </h1><br><br>
-Application Programmer and Designer,
-<br><br>
-focused on creating intuitive and efficient application interfaces. 
-<br><br>
-I have extensive experience in app development
-<br><br>
-Using Flutter and UI/UX design with tools like Adobe XD and Figma.
-<br><br>
-I possess strong technical skills in ASP.NET MVC Core, Bootstrap,
-<br><br>
-Flutter, Dart, PHP, HTML/CSS, JavaScript, and responsive design. 
-<br><br>
-I am always looking to evolve and learn new technologies... 🎲🎯  
-
-<br><br>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views"/>
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Bio
+## About Laravel
 
-Flutter Developer | Mobile App Designer | Tech Enthusiast
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- **Current Position**: Mobile Developer as [Freelancer]
-- **Skills**: Flutter, Dart, JavaScript, Htlml,php,
-- Figma
-- **Projects**: 
-  - [ShammkhApp](https://play.google.com/store/apps/details?id=com.awalnet.flutter_shammakh_ecom)
-  - [Alhawi Store](https://play.google.com/store/apps/details?id=com.alhawi.active_ecommerce_flutter_app)
-- **Interests**: 
-  - Mobile and web app development
-  - UI/UX design
-  - Learning new technologies
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-### Connect with me:
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-  <a href="https://wa.me/775464411" target="_blank"> <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="40" height="40"/> </a>
+## Learning Laravel
 
-  <a href="https://www.linkedin.com/in/hind-alzzindani/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
-  
-### Languages and Tools:
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin: 190%;"/>
-  </a>
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin: 90%;"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="margin: 90%;"/>
-  </a>
-  <a href="https://www.android.com/studio" target="_blank">
-    <img src="https://camo.githubusercontent.com/e87a0bbc2ea533869deabc5775446f8a634e13dc84511323038eab5203ff40e5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f696473747564696f2f616e64726f696473747564696f2d6f726967696e616c2e737667" alt="android" width="40" height="40" style="margin: 90%;"/>
-  </a>
+## Laravel Sponsors
 
-   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 10px;"/>
-  </a>
-   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 10px;"/>
-  </a>
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
- 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" style="margin: 10px;"/>
-  </a><br><br>
-  
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="asp.net core" width="40" height="40" style="margin: 10px;"/>
-  </a>
- 
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40" style="margin: 10px;"/>
-  </a>
-</p>
+### Premium Partners
 
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
 
-### Courses:
+## Contributing
 
-🎯 Flutter - Animations from Zero to Hero
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-link https://www.udemy.com/certificate/UC-82b63551-3818-47b7-b1c2-5676f45cfb31/
+## Code of Conduct
 
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-🎯 Flutter Advanced Course Bloc and MVVM Pattern [Arabic][2023]
-https://www.udemy.com/certificate/UC-dcea4f17-2e77-4978-afce-5fd95370bd29/
+## Security Vulnerabilities
 
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-🎯 Deep Dive into Clean Architecture in Flutter[Arabic]
- https://www.udemy.com/certificate/UC-e3ffa369-c4fb-4dee-a295-b8692da00f85/
+## License
 
-### My Stats:
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hindalzzindani&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hindalzzindani&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
