@@ -1268,7 +1268,7 @@ section {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgb(2 4 12 / 78%); /* اللون الرمادي مع تعتيم */
+  background-color: rgb(2 4 12 / 0%); /* اللون الرمادي مع تعتيم */
   pointer-events: auto; /* لا تتداخل مع النقرات */
 }
 .section {
