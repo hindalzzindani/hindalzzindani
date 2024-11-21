@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/hamburgers/1.1.3/hamburgers.min.css"
+    />
+
+    <title>Eng/hind</title>
+  </head>
+
+  <body class="protfolio">
+    <div class="toggle_icon menu-circle" id="menu">
+      <i class="fas fa-list"></i>
+    </div>
+
+    <!-- devided the page into tow section -->
+    <div class="protfolio_warpper">
+      <!-- nav in the left of the page should take 3/12 -->
+      <nav class="nav" id="nav">
+        <a href="#" class="nav_logo">
+          <img src="img/logo.png" alt="logo" />
+        </a>
+        <ul class="nav_list">
+          <li><a class="active" href="#home">About Me</a></li>
+          <li><a href="#about">Experience</a></li>
+        </ul>
+        <div class="toggle-switch">
+          <label class="toggle-lable">
+            <input
+              class="toggle-checkout"
+              id="toggle-checkout"
+              type="checkbox"
+            />
+            <span class="slider"></span>
+          </label>
+        </div>
+      </nav>
+      <!-- the main right section  -->
+      <main data-scroll-container>
+        <!-- breif of me  -->
+        <header id="home" class="section" onmousemove="comet()">
+          <div id="container-comet"></div>
+          <div class="section_numberic__upper">One</div>
+          <section class="home">
+            <div class="home-img">
+              <img src="img/10.png" alt="" />
+            </div>
+            <div class="home-content">
+              <h1>Hi, I'm <span>Hind </span></h1>
+              <h3 class="typing-text">I'm a <span></span></h3>
+              <p>
+                Hi, my name is Hind. I am a dedicated software developer with a
+                strong passion for Flutter. My journey in Information Technology
+                ignited my interest in mobile development, and I am continuously
+                learning new technologies to enhance my skills and deliver
+                top-quality results. ..
+              </p>
+              <div class="social-icons">
+                <a href="https://github.com/hindalzzindani" target="_blank"
+                  ><i class="fa-brands fa-github"></i
+                ></a>
+                <a
+                  href="https://www.linkedin.com/in/hindalzzindani"
+                  target="_blank"
+                  ><i class="fa-brands fa-linkedin"></i
+                ></a>
+                <a href="https://mostaql.com/u/hindalzzindani" target="_blank">
+                  <img
+                    src="img/mostaql-logo-white.svg"
+                    alt="Freelance Icon"
+                    style="width: 19px; height: 19px"
+                  />
+                </a>
+                <a href="https://www.behance.net/hindalzzindani" target="_blank"
+                  ><i class="fa-brands fa-behance"></i
+                ></a>
+              </div>
+
+              <a href="img/Hind-Alzzindani-CV.pdf" class="btn" download>
+                download my cv
+              </a>
+            </div>
+          </section>
+
+          <div class="section_numberic__lower">O.1</div>
+        </header>
+
+        <div class="container" id="about">
+          <!--   *******  Main Heading Starts  *******   -->
+
+          <div class="main-title">
+            <h1>Skills</h1>
+            <p class="section_about_paragraph third-text">
+              My Skills: Proficient mobile app developer using Flutter, with a
+              strong background in design through Figma. Experienced in creating
+              user-friendly applications and sleek, intuitive interfaces, with a
+              passion for learning new technologies to enhance project quality.
+              .
+            </p>
+          </div>
+
+          <!--   *******  Main Heading Ends  *******   -->
+
+          <div class="row">
+            <!--   *******  Left Section Starts here  *******   -->
+
+            <section class="col">
+              <div class="sub-title">
+                <h2>Programming Skills</h2>
+              </div>
+
+              <div class="skills-container">
+                <div class="skill">
+                  <div class="subject">FLutter & Dart</div>
+                  <div class="progress-bar" value="94%">
+                    <div class="progress-line" style="max-width: 94%"></div>
+                  </div>
+                </div>
+
+                <div class="skill">
+                  <div class="subject">PHP</div>
+                  <div class="progress-bar" value="83%">
+                    <div class="progress-line" style="max-width: 83%"></div>
+                  </div>
+                </div>
+
+                <div class="skill">
+                  <div class="subject">JavaScript</div>
+                  <div class="progress-bar" value="88%">
+                    <div class="progress-line" style="max-width: 88%"></div>
+                  </div>
+                </div>
+
+                <div class="skill">
+                  <div class="subject">ASP.ENT CORE</div>
+                  <div class="progress-bar" value="68%">
+                    <div class="progress-line" style="max-width: 68%"></div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <!--   ********  Left Section Ends Here  *******  -->
+
+            <!--   ********  Right Section Starts Here  ********  -->
+
+            <section class="col">
+              <div class="sub-title">
+                <h2>Designing Skills</h2>
+              </div>
+
+              <div class="skills-container">
+                <div class="skill">
+                  <div class="subject">HTML</div>
+                  <div class="progress-bar" value="82%">
+                    <div class="progress-line" style="max-width: 82%"></div>
+                  </div>
+                </div>
+
+                <div class="skill">
+                  <div class="subject">Css</div>
+                  <div class="progress-bar" value="74%">
+                    <div class="progress-line" style="max-width: 74%"></div>
+                  </div>
+                </div>
+
+                <div class="skill">
+                  <div class="subject">Figma</div>
+                  <div class="progress-bar" value="63%">
+                    <div class="progress-line" style="max-width: 63%"></div>
+                  </div>
+                </div>
+
+                <div class="skill">
+                  <div class="subject">Ui/Ux Design</div>
+                  <div class="progress-bar" value="91%">
+                    <div class="progress-line" style="max-width: 91%"></div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <!--   ********  Right Section Ends Here  ********   -->
+          </div>
+        </div>
+      </main>
+    </div>
+    <!-- AOS JavaScript -->
+
+    <script src="js/scripts.js"></script>
+
+    <script src="js/toggle.js"></script>
+
+    <script src="js/mode.js"></script>
+
+    <script src="js/toggleMenu.js"></script>
+  </body>
+</html>
