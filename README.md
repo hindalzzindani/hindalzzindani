@@ -39,8 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hindalzzindani&show_icons=true&locale=en&theme=radical" alt="hindalzzindani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hindalzzindani&show_icons=true&locale=en&theme=radical" alt="hindalzzindani" /></p>
-
 ## Bio
 
 - **Projects**: 
