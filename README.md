@@ -3,11 +3,11 @@
 <h3 align="center">Software Engineer</h3>
 <h3 align="center">A passionate Flutter developer</h3>
 
+<img align="right" alt="Coding" width="200"  src="dev.gif"><br><br>
+
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
 </div>
-
-<img align="right" alt="Coding" width="200"  src="dev.gif"><br><br>
 
 <hr style="border: none; height: 0.2px;; background-color: #eaeaea; margin: 10px 0;">
 
