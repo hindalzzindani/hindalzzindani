@@ -36,8 +36,6 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hindalzzindani" alt="hindalzzindani" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hindalzzindani&show_icons=true&locale=en&layout=compact" alt="hindalzzindani" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hindalzzindani&show_icons=true&locale=en" alt="hindalzzindani" /></p>
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hindalzzindani&show_icons=true&theme=radical" alt="GitHub Stats" />
