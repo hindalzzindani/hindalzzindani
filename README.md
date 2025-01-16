@@ -6,6 +6,7 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
 </div>
+<hr style="border: 0; height: 1px; background: #ccc; margin: 10px 0;">
 
 - ⚡ Application Development & UI/UX Design: **Skilled in creating innovative and efficient application interfaces using tools like Adobe XD and Figma.**
 
