@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
 </div>
 
+<img align="right" alt="Coding" width="400"  src="dev.gif"><br><br>
+
 <hr style="border: none; height: 0.2px;; background-color: #eaeaea; margin: 10px 0;">
 
 
