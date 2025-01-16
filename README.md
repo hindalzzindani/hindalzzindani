@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=hindalzzindan" alt="Profile views" />
 </div>
 
-<hr style="border: none; height: 1px; background-color: #eaeaea; margin: 10px 0;">
+<hr style="border: none; height: 0.5px;; background-color: #eaeaea; margin: 10px 0;">
 - ⚡ Application Development & UI/UX Design: **Skilled in creating innovative and efficient application interfaces using tools like Adobe XD and Figma.**
 
 - 🌱 Continuous Learning: **Committed to growth by adopting emerging technologies and following industry best practices.**
