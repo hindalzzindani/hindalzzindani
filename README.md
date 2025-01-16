@@ -41,6 +41,12 @@
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=hindalzzindani&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hindalzzindani&show_icons=true&locale=en&layout=compact" alt="hindalzzindani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hindalzzindani&show_icons=true&locale=en" alt="hindalzzindani" /></p>
+
 ## Bio
 
 - **Projects**: 
