@@ -12,6 +12,109 @@ body {
   width: 100vw;
   height: 100vh;
 }
+/* Make layout responsive */
+.protfolio_warpper {
+    display: grid;
+    grid-template-columns: 260px auto;
+}
+
+/* Sidebar responsiveness */
+.nav {
+    width: 260px;
+    min-height: 100vh;
+    transition: 0.3s;
+}
+
+@media (max-width: 992px) {
+    .protfolio_warpper {
+        grid-template-columns: 0px auto;
+    }
+
+    .nav {
+        position: fixed;
+        left: -260px;
+        background: #111;
+        z-index: 9999;
+    }
+
+    .nav.active {
+        left: 0;
+    }
+
+    #menu {
+        display: block;
+    }
+}
+
+/* Home Section Responsive */
+.home {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-img img {
+    width: 400px;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    .home {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .home-img img {
+        width: 240px;
+    }
+}
+
+/* Skills responsive */
+.row {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
+
+@media (max-width: 768px) {
+    .row {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Progress bars */
+.progress-bar {
+    background: #ccc;
+    height: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.progress-line {
+    height: 100%;
+    background: #6a4ff5;
+}
+
+/* Social Icons */
+.social-icons a img {
+    width: 20px;
+    height: 20px;
+}
+
+/* Mobile Menu Icon */
+#menu {
+    display: none;
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    background: #222;
+    padding: 10px;
+    border-radius: 7px;
+    color: #fff;
+    z-index: 10000;
+    cursor: pointer;
+}
 
 .particle {
   z-index: 1;
